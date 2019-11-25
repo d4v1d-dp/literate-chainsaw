@@ -1,0 +1,12 @@
+p {
+  font-size: 14px;
+}
+
+p.zvyrazneny {
+  font-size: 16px;
+  text-align: justify;
+}
+
+.cerveny {
+  color: red;
+}
